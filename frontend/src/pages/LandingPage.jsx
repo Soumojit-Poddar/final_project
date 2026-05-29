@@ -82,7 +82,7 @@ const LandingPage = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-3xl sm:text-4xl font-bold text-white mb-4">
-              Why Choose SmartHire?
+              Why Choose NEXUS?
             </h2>
             <p className="text-gray-400 text-lg">
               Powerful features designed for modern job searching
@@ -171,7 +171,7 @@ const LandingPage = () => {
             Ready to transform your hiring process?
           </h2>
           <p className="text-gray-300 text-lg mb-8">
-            Join thousands of companies and candidates using SmartHire
+            Join thousands of companies and candidates using NEXUS
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link to="/register" className="btn-primary text-lg px-8 py-4">

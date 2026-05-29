@@ -26,7 +26,7 @@ const Navbar = () => {
           <Link to="/" className="flex items-center space-x-2">
             <Briefcase className="w-8 h-8 text-primary-500" />
             <span className="text-xl font-bold text-white">
-              SmartHire
+              NEXUS
             </span>
           </Link>
 

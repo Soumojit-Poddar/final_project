@@ -80,7 +80,7 @@ const Login = () => {
         <div className="text-center">
           <Link to="/" className="inline-flex items-center justify-center space-x-2 mb-6">
             <Briefcase className="w-12 h-12 text-primary-500" />
-            <span className="text-2xl font-bold text-white">SmartHire</span>
+            <span className="text-2xl font-bold text-white">NEXUS</span>
           </Link>
           
           <h2 className="text-3xl font-bold text-white">
@@ -92,13 +92,13 @@ const Login = () => {
         </div>
 
         {/* Demo Credentials Info */}
-        <div className="card bg-primary-500/5 border-primary-500/20">
+        {/* <div className="card bg-primary-500/5 border-primary-500/20">
           <p className="text-sm text-gray-300 mb-2">Demo Credentials:</p>
           <div className="space-y-1 text-xs text-gray-400">
             <p>📧 Candidate: john@example.com / password123</p>
             <p>💼 Recruiter: jane@company.com / password123</p>
           </div>
-        </div>
+        </div> */}
 
         {/* Login Form */}
         <form onSubmit={handleSubmit} className="card space-y-6">

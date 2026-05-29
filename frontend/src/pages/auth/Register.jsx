@@ -98,7 +98,7 @@ const Register = () => {
         <div className="text-center">
           <Link to="/" className="inline-flex items-center justify-center space-x-2 mb-6">
             <Briefcase className="w-12 h-12 text-primary-500" />
-            <span className="text-2xl font-bold text-white">SmartHire</span>
+            <span className="text-2xl font-bold text-white">NEXUS</span>
           </Link>
           
           <h2 className="text-3xl font-bold text-white">
